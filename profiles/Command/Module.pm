@@ -1,7 +1,7 @@
 use true;
 use MooseX::Declare;
 
-#  PODNAME: {{$name}}
+#  PODNAME: Text::Toolkit::PLTK::Command::{{$name}}
 # ABSTRACT: Short description of {{$name}}
 
 class Text::Toolkit::PLTK::Command::{{$name}} extends (MooseX::App::Cmd::Command,Text::Toolkit::PLTK)

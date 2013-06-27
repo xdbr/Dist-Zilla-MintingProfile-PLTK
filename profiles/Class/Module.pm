@@ -1,7 +1,7 @@
 use true;
 use MooseX::Declare;
 
-#  PODNAME: {{$name}}
+#  PODNAME: Text::Toolkit::PLTK::Class::{{$name}}
 # ABSTRACT: [Abstract for {{$name}}]
 
 class Text::Toolkit::PLTK::Class::{{$name}} with MooseX::Log::Log4perl {
